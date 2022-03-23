@@ -1,0 +1,34 @@
+
+.a{
+   
+    background-color: tomato;
+    height: 50px;
+    margin-left: 0px;
+}
+.b{
+   color: white;
+    display: inline;
+    font-size: 43px;
+   
+}
+.b:hover{
+    background-color:red;
+}
+body{
+    background-color: lightpink;
+}
+.ladoo{
+    padding-left: 500px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#m,#n,#o,#p,#q{
+    margin-left: 500px;
+}
+p{
+    margin-left: 180px;
+    font-size: 25px;
+}
+index.css
+Displaying index.css.
